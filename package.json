@@ -1,0 +1,24 @@
+{
+  "name": "learn-botframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taqimonster/learn-botframework.git"
+  },
+  "author": "mr szul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taqimonster/learn-botframework/issues"
+  },
+  "homepage": "https://github.com/taqimonster/learn-botframework#readme",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "typescript": "^2.6.2"
+  }
+}
